@@ -8,6 +8,7 @@ All repository content must be written in English.
 
 - `rules/` - Coding rules organized by topic:
   - `best-practices/` - Readability, naming, and simplicity.
+  - `environment-variables/` - Centralized configuration validation and fail-fast startup.
   - `logging/` - What to log, when, and at which level.
   - `error-handling/` - How to handle and propagate errors.
   - `testing/` - What to test and how to cover regressions.
