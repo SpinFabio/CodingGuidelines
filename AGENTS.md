@@ -5,6 +5,7 @@
 # Guideline files
 
 - Write each guideline as a short Markdown (`.md`) file focused on one concept.
+- Keep writing minimal, simple, and direct. Include only essential rules; avoid repetition, unnecessary sections, and lengthy explanations.
 - Name the file after its concept title, using lowercase words separated by hyphens.
 - Place the file in the appropriate topic folder under `rules/`.
 
