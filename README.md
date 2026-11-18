@@ -7,7 +7,8 @@ All repository content must be written in English.
 ## Planned structure
 
 - `rules/` - Coding rules organized by topic:
-  - `best-practices/` - Readability, naming, and simplicity.
+  - `best-practices/` - Readability and simplicity.
+  - `naming-conventions/` - Clear and consistent names.
   - `environment-variables/` - Centralized configuration validation and fail-fast startup.
   - `logging/` - What to log, when, and at which level.
   - `error-handling/` - How to handle and propagate errors.
