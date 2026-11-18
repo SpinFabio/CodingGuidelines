@@ -7,6 +7,7 @@ All repository content must be written in English.
 ## Planned structure
 
 - `rules/` - Coding rules organized by topic:
+  - `agent-behaviour/` - Agent workflow and approval rules.
   - `best-practices/` - Readability and simplicity.
   - `naming-conventions/` - Clear and consistent names.
   - `environment-variables/` - Centralized configuration validation and fail-fast startup.
